@@ -68,8 +68,8 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'calculator.wsgi.application'
-
+# WSGI_APPLICATION = 'calculator.wsgi.application'
+WSGI_APPLICATION = 'calculatorbykuchko.wsgi.application'
 
 # Database
 # https://docs.djangoproject.com/en/4.1/ref/settings/#databases
