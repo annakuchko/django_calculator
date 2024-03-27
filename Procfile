@@ -1,1 +1,1 @@
-web: gunicorn calculatorbykuchko.wsgi
+web: gunicorn calculator.wsgi
